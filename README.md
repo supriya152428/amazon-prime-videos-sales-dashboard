@@ -63,7 +63,8 @@ Performed in Excel before loading into Power BI:
 
 **Author**: *Supriya Yadav*  
 **Role**: Aspiring Data Analyst | Power BI Enthusiast  
-**Connect**: [GitHub Profile](https://github.com/your-username)
+**Connect**: [linkedin ] -(www.linkedin.com/in/supriya-yadav-b1564b319)
+
 
 > “Transforming entertainment data into engaging insights.”
 
